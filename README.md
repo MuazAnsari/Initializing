@@ -1,3 +1,3 @@
 # Initializing
-My first Git Repository
+My first Git Repository.
 Author ~ Muaz_Ansari
